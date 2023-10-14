@@ -1,0 +1,66 @@
+ 
+        header{
+            background-color:rgb(241, 248, 106);
+            background-size: cover; top:0;
+           left:0;width:101%;
+           border-style: solid;
+           border-color: rgb(110, 106, 51);
+           border-width:5px;margin-right:-1000px;
+        }
+        #x{display: flex;
+           flex-direction: row;
+           padding:10px;
+           position: absolute;
+          
+           }
+        
+           #a{position:absolute;
+              top:25px;right:750px;
+              font-style:italic;font-size:30px;}
+
+           #b{position:absolute;
+            top:25px;
+           left:840px;
+           font-size:30px;
+           font-style: italic;}
+
+           #c{position:absolute;
+            top:25px;
+           left:952px;
+           font-size:30px;
+           font-style: italic;}
+
+           #d{position:absolute;
+            top:25px;
+           left:1097px;
+           font-size:30px;
+           font-style: italic}
+
+           #e{position:absolute;
+            top:25px;
+           left:1275px;
+           font-size:30px;
+           font-style: italic}
+         
+           .y{position: absolute;top:35px;size:30px;left:1400px;
+              }
+
+           .f{background-image:url("https://images.pexels.com/photos/5690148/pexels-photo-5690148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");background-repeat:  no-repeat;background-size: cover;margin-right:-10px;margin-top:80px;margin-left:-8px;height:400px;font-size:110px;color: white;font-style: italic;padding-left:90px;padding-top:300px;padding-bottom:1px;margin-right: -53px;}
+
+           .g{position: absolute;left:0;top:500;background-color: rgb(227, 234, 133);width:82%;height:20600px;border-style: solid;border-color: black;border-width:5px;}
+
+           .h{color:black;font-style: italic;font-size:60px;padding-left:310px;margin-right:-1500px;}
+       
+           #z{display:flex;flex-direction: column;}
+
+           .s:hover{color: rgb(246, 101, 157);}
+
+           #t{width:94%;background-color:rgb(182, 184, 198);position: absolute;left:0;bottom:0;height:200px;}
+
+        .o{color: inherit;
+           }
+
+        .r{position: absolute;bottom:5px;}
+       
+        #q:hover{color:rgb(182, 43, 66);}
+    
